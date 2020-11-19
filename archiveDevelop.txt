@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+asasdcasdcvsafwravwfv
+=======
 asasdcasdcvsafwravwfvdcrdfvD
 this is a try
-
+>>>>>>> 1d2a27012d50d5410c4033bc5a81efbaf3873b42
